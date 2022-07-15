@@ -4,7 +4,7 @@ bio:                'Silver backed cryptocurrency'
 description:        "argenti is the future of commodity backed cryptos."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/Ag.png'
+logo:               'assets/img/ag.png'
 background:         'assets/img/background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
