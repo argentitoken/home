@@ -5,7 +5,7 @@ description:        "argenti is the future of commodity backed cryptos."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/ag.png'
-background:         'assets/img/background.jpg'
+background:         'assets/img/bluebackground.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:               https://argentitoken.github.io/home/
